@@ -407,8 +407,8 @@ footer ul a:hover{
 .form__section{
     display:grid;
     place-items: center;
-    height: 100vh;
-    margin: 3rem 0 4rem 0;
+    height: 110vh;
+    margin: 4rem 0 4rem 0;
 }
 .form__section-container{
     width: var(--form-width);
@@ -440,6 +440,7 @@ form{
     display: flex;
     flex-direction: column;
     gap: 0.4rem;
+    
 }
 .form__control.inline{
     flex-direction: row;
